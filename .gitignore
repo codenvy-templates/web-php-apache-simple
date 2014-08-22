@@ -1,0 +1,15 @@
+# Idea #
+##################
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*/overlays
+*~
