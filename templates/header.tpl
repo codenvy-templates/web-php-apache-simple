@@ -1,5 +1,6 @@
 <HTML>
 <HEAD>
-    <TITLE>{$title} - {$Name}</TITLE>
+{popup_init src="/javascripts/overlib.js"}
+<TITLE>{$title} - {$Name}</TITLE>
 </HEAD>
 <BODY bgcolor="#ffffff">
