@@ -1,1 +1,1 @@
-{"type":"blank","properties":[{"name":"runner.name","value":["php-webapp-default"]},{"name":"runner.env_id","value":["php56_apache2"]}]}
+{"attributes":{"runner.env_id":["php56_apache2"]},"projectTypeId":"blank","builder":null,"runner":"php-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
