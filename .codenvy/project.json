@@ -1,1 +1,1 @@
-{"type":"blank","properties":[{"name":"runner.name","value":["php-webapp-default"]},{"name":"runner.env_id","value":["php56_apache2"]}]}
+{"type":"php","properties":[{"name":"runner.name","value":["php-webapp-default"]},{"name":"runner.env_id","value":["php56_apache2"]}]}
