@@ -1,1 +1,1 @@
-{"attributes":{"runner.env_id":["php56_apache2"]},"projectTypeId":"php","builder":null,"runner":"php-webapp-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":"php56_apache2","builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
+{"type":"php","attributes":{},"builders":{},"runners":{"default":"php-webapp-default","configs":{}}}
