@@ -1,1 +1,1 @@
-{"type":"php","attributes":{},"runners":{"default":"system:/php-webapp-default/php56_apache2","configs":{}},"builders":{}}
+{"type":"php","attributes":{},"runners":{"default":"system:/php/web/php56_apache2","configs":{}},"builders":{}}
